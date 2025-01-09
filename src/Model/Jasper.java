@@ -31,7 +31,7 @@ import net.sf.jasperreports.export.SimplePrintServiceExporterConfiguration;
  * <li>Author Lochana 2005</li>
  * <li>Copyright 2024</li>
  *
- * @author Buddhi7770
+ * @author Lochana
  */
 public class Jasper {
 
